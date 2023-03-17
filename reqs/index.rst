@@ -12,4 +12,16 @@ AUTOSAR Adaptive R22-11
 Glossary
 ---------------------
 
+.. glossary:: 
 
+    HSM 
+        Hardware Software Module
+        
+    PKI 
+        Public Key Infrastructure
+
+    SHE 
+        Secure Hardware Extension
+
+    TPM 
+        Trusted Platform Module
