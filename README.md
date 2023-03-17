@@ -1,8 +1,8 @@
 # AUTOSAR Adaptive
 
----
-
 [![Documentation Status](https://readthedocs.org/projects/autosaradaptive/badge/?version=latest)](https://autosaradaptive.readthedocs.io/en/latest/?badge=latest)
+
+---
 
 Requirements of the AUTOSAR Adaptive Platform in sphinx-needs format
 
