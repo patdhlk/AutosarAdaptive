@@ -22,7 +22,7 @@ The purpose of this repo is to enable a better browsing of AUTOSAR requirements 
 - [x] AUTOSAR Requirements on IPsec Protocol
 - [ ] AUTOSAR Requirements on Manifest Specification
 - [ ] AUTOSAR Requirements of State Management
-- [ ] AUTOSAR Requirements on Persistency
+- [x] AUTOSAR Requirements on Persistency
 - many more will follow.
 
 ## Generating the `sphinx` output
