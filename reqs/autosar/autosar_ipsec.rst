@@ -618,6 +618,16 @@ AUTOSAR Requirements on IPsec Protocol
 All IPsec related autosar requirements
 --------------------------------------
 
+.. needlist::
+   :tags: autosar_ipsec
+
+
+Traceability
+------------------------------------------
+
+.. needtable::
+   :tags: autosar_ipsec
+
 
 .. needflow:: AUTOSAR IPsec
   :tags: autosar_ipsec

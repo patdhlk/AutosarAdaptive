@@ -317,6 +317,16 @@ AUTOSAR IAM requirements
 All IAM related autosar requirements
 --------------------------------------
 
+.. needlist::
+   :tags: autosar_iam
+
+
+Traceability
+------------------------------------------
+
+.. needtable::
+   :tags: autosar_iam
+
 
 .. needflow:: AUTOSAR IAM
   :tags: autosar_iam

@@ -28,7 +28,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00001
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00440
 
     **Description:**
@@ -46,7 +46,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00002
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00440
 
     **Description:**
@@ -64,7 +64,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00003
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00440
 
     **Description:**
@@ -82,7 +82,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00004
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00440
 
     **Description:**
@@ -102,7 +102,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00005
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00514
 
     **Description:**
@@ -120,7 +120,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00008
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00011, RS_SAF_10039
 
     **Description:**
@@ -137,7 +137,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00009
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00011, RS_SAF_10040
 
     **Description:**
@@ -156,7 +156,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00012
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00150, RS_Main_00503
 
     **Description**:
@@ -173,7 +173,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00013
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00150, RS_Main_00503
 
     **Description:**
@@ -191,7 +191,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00014
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00150, RS_Main_00503
 
     **Description:**
@@ -208,7 +208,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00016
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00150, RS_Main_00503
 
     **Description:**
@@ -226,7 +226,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00011
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00011
 
     **Description:**
@@ -244,7 +244,7 @@ AUTOSAR Requirements on Persistency
     :id: RS_PER_00017
     :tags: autosar, autosar_persistency
     :status: open
-    :depends: -
+    :depends:
     :satisfies: RS_Main_00440
 
     **Description:**
@@ -260,6 +260,16 @@ AUTOSAR Requirements on Persistency
 
 All Persistency related autosar requirements
 -------------------------------------------------
+
+.. needlist::
+   :tags: autosar_persistency
+
+
+Traceability
+------------------------------------------
+
+.. needtable::
+   :tags: autosar_persistency
 
 
 .. needflow:: AUTOSAR Persistency

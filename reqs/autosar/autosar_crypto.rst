@@ -738,9 +738,18 @@ AUTOSAR Requirements on Cryptography
 
 
 
-
 All crypto related AUTOSAR requirements
 ------------------------------------------
+
+.. needlist::
+   :tags: autosar_crypto
+
+
+Traceability
+------------------------------------------
+
+.. needtable::
+   :tags: autosar_crypto
 
 
 .. needflow:: AUTOSAR Crypto
